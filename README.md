@@ -1,3 +1,3 @@
 # FraudDetection
 
-Datascience and a Machine Learning project to fight fraudulent transactions. 
+Data science and a Machine Learning project to fight fraudulent transactions. 
